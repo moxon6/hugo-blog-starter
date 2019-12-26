@@ -1,0 +1,6 @@
+{
+	"name": "Hugo Devcontainer",
+	"context": "..",
+	"dockerFile": "Dockerfile",
+	"appPort": [ 1313 ]
+}
